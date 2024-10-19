@@ -44,6 +44,6 @@ class Solution
         // Test cases
         System.out.println(solution.maximumSwap(2736)); // Output: 7236
         System.out.println(solution.maximumSwap(9973)); // Output: 9973
-        System.out.println(solution.maximumSwap(1234)); // Output: 4321
+        System.out.println(solution.maximumSwap(1234)); // Output: 4231
     }
 }
